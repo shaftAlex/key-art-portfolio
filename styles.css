@@ -50,9 +50,16 @@ html {
     font-size: 44px;      /* Adjust font size as needed */
 }
 
+.banner h3 {
+    margin: 0 0 2% 0;
+    padding: 0;
+    font-size: 26px;
+    color: #c0c0c0;
+}
+
 .banner nav ul {
     font-weight: 600;
-    font-size: 22px;
+    font-size: 18px;
     list-style: none;
     margin: 0;
     padding: 0;
@@ -60,7 +67,7 @@ html {
 
 .banner nav ul li {
     display: inline;
-    margin-right: 0;   /* Add space between social links */
+    margin-right: 3%;   /* Add space between social links */
 }
 
 .banner nav ul li:last-child {
@@ -69,5 +76,5 @@ html {
 
 .banner nav ul li a {
     text-decoration: none;
-    color: #fff;          /* Link color */
+    color: #7371f3;          /* Link color */
 }
